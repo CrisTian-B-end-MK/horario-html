@@ -4,13 +4,14 @@ header{
     text-align: center;
     background-color: rgb(218, 161, 57);
     width: 100%;
-    margin: 20px;
+    overflow-x: auto;
 }
 
 table{
     text-align: center;
 }   
 div{
+    overflow-x: auto;
     width: 800px; 
     margin-left: auto; 
     margin-right: auto;
