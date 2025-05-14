@@ -4,6 +4,7 @@ header{
     background-color: rgb(218, 161, 57);
     overflow-x: auto;
     border: 2px solid;
+    height: 10vh;
 }
 
 table{
